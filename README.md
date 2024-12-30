@@ -1,4 +1,28 @@
-## Hi there 👋
+### Hi there! 👋 I'm Chris, a...
+
+  - Software Developer 🖳
+  - Computer Science Hobbyist 📜
+
+💻 Welcome to my public repos! If you like Web Development, Robotics, Machine Learning, Vision, or just want to check some solutions to coding interview problems, you've come to the right place.
+
+💬 Let's talk backend engineering, programming languages, Arduino, Python, JavaScript, Node.js, Django, Math, Algorithms, Data Structures, and football.
+
+🌱 I’m currently focused a lot on backend engineering with Python and JavaScript, and post a few interview problem solutions now and then :)
+
+👦 Pronouns: He, him, his.
+
+⚡ Fun facts:
+
+  - I played Division I football for the Unniversity of Connecticut.
+  - I am not named after Sir Christopher Lee, but enjoy his acting.
+
+📫 How to reach me: Is it about a repo? Make a pull request. Otherwise, feel free to [e-mail me](mailto:christopher.d.lee123@gmail.com).
+
+🌐 Other web portals:
+
+  - [Personal site](https://acdlee.net/)
+
+Thanks for reading! 🙃
 
 <!--
 **acdlee/acdlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
