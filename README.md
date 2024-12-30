@@ -13,8 +13,8 @@
 
 ⚡ Fun facts:
 
-  - I played Division I football for the Unniversity of Connecticut.
-  - I am not named after Sir Christopher Lee, but enjoy his acting.
+  - I played Division I football for the Unniversity of Connecticut 🏈.
+  - Penguins are my favorite animal 🐧.
 
 📫 How to reach me: Is it about a repo? Make a pull request. Otherwise, feel free to [e-mail me](mailto:christopher.d.lee123@gmail.com).
 
