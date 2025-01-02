@@ -3,7 +3,7 @@
   - Software Developer 🖳
   - Computer Science Hobbyist 📜
 
-💻 Welcome to my public repos! If you like Web Development, programming languages and quirks, or just want to check some solutions to coding interview problems, you've come to the right place.
+💻 Welcome to my public repos! If you like Web Development, Programming Languages and their quirks, or just want to check some solutions to coding interview problems, you've come to the right place.
 
 💬 Let's talk backend engineering, programming languages, Python, JavaScript, Node.js, Django, Math, Algorithms, Data Structures, and football.
 
