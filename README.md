@@ -5,7 +5,7 @@
 
 💻 Welcome to my public repos! If you like Web Development, Programming Languages and their quirks, or just want to check some solutions to coding interview problems, you've come to the right place.
 
-💬 Let's talk backend engineering, programming languages, Python, JavaScript, Node.js, Django, Math, Algorithms, Data Structures, and football.
+💬 Let's talk web development, programming languages, Python, JavaScript, Math, Algorithms, Data Structures, and football.
 
 🌱 I’m currently focused a lot on backend engineering with Python and JavaScript, and post a few interview problem solutions now and then :)
 
