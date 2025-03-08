@@ -2,6 +2,8 @@
 
   - Software Developer 🖳
   - Computer Science Hobbyist 📜
+  - University of Maryland Graduate (BSc Computer Science, Minor Statistics) 🐢
+  - Montgomery Community College Graduate (Web Development and Design Certificate) 🐴
 
 💻 Welcome to my public repos! If you like Web Development, Programming Languages and their quirks, or just want to check some solutions to coding interview problems, you've come to the right place.
 
