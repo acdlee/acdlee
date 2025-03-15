@@ -9,9 +9,7 @@
 
 💬 Let's talk web development, programming languages, Python, JavaScript, Math, Algorithms, Data Structures, and football.
 
-🌱 I’m currently focused a lot on backend engineering with Python and JavaScript, and post a few interview problem solutions now and then :)
-
-👦 Pronouns: He, him, his.
+🌱 I’m currently focused on implementing various Full Stack-stacks, programming in Go and JavaScript, and posting a few interview problem solutions now and then :)
 
 ⚡ Fun facts:
 
