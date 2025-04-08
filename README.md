@@ -1,3 +1,7 @@
+### Hello,
 
+I'm a software engineer coming from research to web development.
 
-  - [Personal site](https://acdlee.net/)
+Currently focused on UX/UI, Figma, React, Express with Node, and relational databases.
+
+<!-- [Personal site](https://acdlee.net/) -->
