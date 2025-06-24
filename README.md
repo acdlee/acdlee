@@ -1,8 +1,8 @@
-### Hello,
+### Hey I'm Chris,
 
-I'm a software engineer coming from research to industry.
+I've been programming for nearly a decade. 
 
-Currently focused on Stable Matching, a full stack project using Figma, React, Flask, and SQLLite.
+Currently working on web-based systems, reading Fluent Python, and learning Go.
 
 Professional experience with Python, C++, C, Docker, HTML, CSS, and JavaScript.
 
