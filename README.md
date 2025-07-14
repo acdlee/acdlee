@@ -2,7 +2,7 @@
 
 I've been programming for nearly a decade. 
 
-Currently working on web-based systems, reading Fluent Python, and learning Go.
+Currently working on web-based systems with Python & TypeScript.
 
 Professional experience with Python, C++, C, Docker, HTML, CSS, and JavaScript.
 
