@@ -1,8 +1,8 @@
-### Hey I'm Chris,
+### I'm Chris,
 
 I've been programming for nearly a decade. 
 
-Currently working on web-based systems with Python & TypeScript.
+Currently working on web-based systems with Go & TypeScript.
 
 Professional experience with Python, C++, C, Docker, HTML, CSS, and JavaScript.
 
