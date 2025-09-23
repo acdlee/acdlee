@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Chris
 
 With nearly a decade of experience in computer science, I bring together modern full stack development, machine learning, and artificial intelligence to create effective business solutions.  
-I'm passionate about programming languages and their unique applications.  
-I'm always open to exploring new languages and paradigms.
+
+I'm passionate about programming languages and their unique applications; always open to exploring new languages and paradigms.
 
 🚧 Currently, I’m working on integrating machine learning solutions into backend systems using **Python** and **Go**.
 
