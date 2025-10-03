@@ -1,30 +1,11 @@
-### 👋 Hi, I'm Chris
+### Howdy! I'm Chris
 
-With nearly a decade of experience in computer science, I bring together modern full stack development, machine learning, and artificial intelligence to create effective business solutions.  
+Over a decade, I've written code for multi-agent reinforcement learning for the government, computer vision for optical science research, web and desktop apps for small to mid-sized companies, and plenty more. I hold a BS in Computer Science with a Minor in Statistics from University of Maryland, College Park.
 
-I'm passionate about programming languages and their unique applications; always open to exploring new languages and paradigms.
+My studies and professional work was focused on craftsmanship: the correct language, efficient implementations, and idomatic programming.
 
-🚧 Currently, I’m working on integrating machine learning solutions into backend systems using **Python** and **Go**.
+I'm currently going back to school to study engineering (civil, environmental, other - haven't decided). I still program now and then, mainly in languages I find interesting.
 
----
-
-### 🧰 Professional Experience With:
-
-- **Languages:** Python, Go, C++, C, SQL, JavaScript  
-- **Libraries & Frameworks:** PyTorch, TensorFlow, NumPy, React, Node.js, jQuery  
-- **Tools & Technologies:** Docker, Kubernetes, NPM, pip, UV, Figma  
-- **IDEs & Platforms:** Visual Studio, PyCharm, Linux, macOS, Windows  
-- **Web:** HTML5, CSS3  
-
----
-
-### 🎓 Academic & Project Experience In:
-
-- 🧩 Full-stack web development  
-- ⚙️ Systems and functional programming  
-- 🎮 Game development  
-
----
-
-📫 Reach me via [email](mailto:christopher.d.lee123@gmail.com)  
-🌐 [Personal site](https://acdlee.net/)
+## Current Projects
+- Making my way through Alex Edward's Let's Go and Let's Go Further
+- Having fun with Python
