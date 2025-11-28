@@ -4,8 +4,7 @@ Over a decade, I've written code for multi-agent reinforcement learning for the 
 
 My studies and professional work was focused on craftsmanship: the correct language, efficient implementations, and idomatic programming.
 
-I'm currently in school pursuing a degree in education while I work, teach, and tutor. I still program now and then, mainly in languages I find interesting.
+I'm currently in school pursuing a degree in education while I work, teach and tutor. I still program now and then, mainly in languages I find interesting.
 
 ## Current Projects
-- Making my way through [Beej's C Book](https://beej.us/guide/bgc/html/)
-- Chess in C inspired by [this project](https://github.com/teten-cat/C---Are-we-there-yet-)
+
