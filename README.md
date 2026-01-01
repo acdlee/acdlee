@@ -1,7 +1,4 @@
-### Howdy! I'm Chris
+### Repo of code by Chris
 
-Over a decade, I've written code for multi-agent reinforcement learning for the government, computer vision for optical science research, web and desktop apps for small to mid-sized companies, and plenty more. I hold a Bachelor of Science in Computer Science with a Minor in Statistics from University of Maryland, College Park.
-
-My studies and professional work was focused on craftsmanship: the correct language, efficient implementations, and idomatic programming.
-
+Few projects and other code during my time through college and first few years professionally. No longer maintained. 
 
